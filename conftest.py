@@ -22,4 +22,4 @@ def browser(request):
     print("\nExit browser for case..")
     browser.quit()
 
-    # хуй
+    # хуй [2]
