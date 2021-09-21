@@ -21,3 +21,5 @@ def browser(request):
     yield browser
     print("\nExit browser for case..")
     browser.quit()
+
+    # хуй
